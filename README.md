@@ -1,5 +1,5 @@
 # FinTech_Finder
-
+Handy application to hire a FinTech professional!
 ## Required Installs:
 streamlit, dataclass, typing(Any, List), web3
 ## Ganache Images:
