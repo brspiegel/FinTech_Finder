@@ -5,6 +5,7 @@ streamlit, dataclass, typing(Any, List), web3
 ## Ganache Images:
 ### Ganache Transactions:
 ![](Images/ganache__transactions.png)
+![](Images/send_transaction_and_hash.png)
 ### Ganache Balance:
 ![](Images/ganache_balance.png)
 ### Ganache History:
